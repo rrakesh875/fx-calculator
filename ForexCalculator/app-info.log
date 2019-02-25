@@ -1,0 +1,17 @@
+[INFO ] 2019-02-25 00:12:54.794 [main] FXCalculatorApplication - Welcome to Forex ExchangeApp
+[INFO ] 2019-02-25 00:12:54.841 [main] FXCalculatorApplication - FX Rate Property File Pathnull
+[INFO ] 2019-02-25 00:12:54.841 [main] FXCalculatorApplication - Currency Precision File Pathnull
+[INFO ] 2019-02-25 00:13:09.176 [main] AddOrUpdateCurrencyAndPrecisionProcessCmd - List of currencies supported by system
+[INFO ] 2019-02-25 00:14:06.173 [main] AddOrUpdateCurrencyAndPrecisionProcessCmd - List of currencies supported by system now
+[ERROR] 2019-02-25 00:17:45.389 [main] FXCalculatorServiceImpl - Invalid Currency passed for calculation, Please look for option 1 & 2 to add currencies and pair in system
+[ERROR] 2019-02-25 00:17:45.406 [main] FXCalculatorServiceImpl - Invalid Currency passed for calculation, Please look for option 1 & 2 to add currencies and pair in system
+[INFO ] 2019-02-25 00:24:49.814 [main] FXCalculatorApplication - Welcome to Forex ExchangeApp
+[INFO ] 2019-02-25 00:24:49.822 [main] FXCalculatorApplication - FX Rate Property File Pathnull
+[INFO ] 2019-02-25 00:24:49.823 [main] FXCalculatorApplication - Currency Precision File Pathnull
+[INFO ] 2019-02-25 00:25:09.959 [main] AddOrUpdateCurrencyAndPrecisionProcessCmd - List of currencies supported by system
+[INFO ] 2019-02-25 00:25:17.736 [main] AddOrUpdateCurrencyAndPrecisionProcessCmd - List of currencies supported by system now
+[ERROR] 2019-02-25 00:25:37.564 [main] FXCalculatorServiceImpl - Invalid Currency passed for calculation, Please look for option 1 & 2 to add currencies and pair in system
+[ERROR] 2019-02-25 00:32:08.417 [main] FXCalculatorServiceImpl - Invalid Currency passed for calculation, Please look for option 1 & 2 to add currencies and pair in system
+[ERROR] 2019-02-25 00:32:08.439 [main] FXCalculatorServiceImpl - Invalid Currency passed for calculation, Please look for option 1 & 2 to add currencies and pair in system
+[ERROR] 2019-02-25 00:34:28.884 [main] FXCalculatorServiceImpl - Invalid Currency passed for calculation, Please look for option 1 & 2 to add currencies and pair in system
+[ERROR] 2019-02-25 00:34:28.957 [main] FXCalculatorServiceImpl - Invalid Currency passed for calculation, Please look for option 1 & 2 to add currencies and pair in system
